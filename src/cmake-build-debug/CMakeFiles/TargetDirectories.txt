@@ -1,0 +1,4 @@
+/Users/sasha/Downloads/TED 3/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sasha/Downloads/TED 3/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sasha/Downloads/TED 3/src/cmake-build-debug/CMakeFiles/TED.dir
+/Users/sasha/Downloads/TED 3/src/cmake-build-debug/CMakeFiles/TED_autogen.dir
